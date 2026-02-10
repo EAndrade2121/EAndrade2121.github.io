@@ -82,3 +82,5 @@ El desarrollo del proyecto siguió las siguientes etapas:
 - Integración de datos de movilidad y economía
 - Análisis visual de relaciones entre variables
 - Elaboración de conclusiones e informe final
+
+Explora más detalles del proyecto en el [repositorio completo](https://github.com/EAndrade2121/Urban-Mobility-and-Economic-Productivity-in-LATAM-Cities)
